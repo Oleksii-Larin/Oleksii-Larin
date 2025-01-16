@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oleksii-Larin
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Back-End development
+- 🌱 I’m currently learning Python
 
 
 <!---
